@@ -1,7 +1,7 @@
 About
 =====
 
-2KAK is an Eleventh Grade English Project created as a representation of the opening chapters of Shakespeare's *Hamlet*.
+2KAK is an Eleventh Grade English Project created as a video game representation of the opening chapters of Shakespeare's *Macbeth*.
 
 Authors
 =======
